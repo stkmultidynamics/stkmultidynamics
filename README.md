@@ -1,5 +1,13 @@
 <div align="center">
 
+### 👉 [Découvrir le projet STK Vision](https://github.com/stkmultidynamics/STK-VISION-)
+
+[![Voir le projet](https://img.shields.io/badge/▶_VOIR_LE_PROJET_STK_VISION_%7C_SEE_THE_PROJECT-29b6ff?style=for-the-badge)](https://github.com/stkmultidynamics/STK-VISION-)
+
+</div>
+
+<div align="center">
+
 <img src="banner.gif" alt="STK MULTIDYNAMICS" width="100%">
 
 <br><br>
