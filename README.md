@@ -6,7 +6,7 @@
 
 [![Visiter le site](https://img.shields.io/badge/🌐_VISITER_LE_SITE_STK_VISION_%7C_VISIT_THE_SITE-29b6ff?style=for-the-badge)](https://stkmultidynamics.github.io/STK-VISION-/)
 
-[![Voir le projet](https://img.shields.io/badge/📁_LE_PROJET_STK_VISION_%7C_THE_PROJECT-7b5cff?style=for-the-badge)](https://github.com/stkmultidynamics/STK-VISION-)
+[![Voir la démo](https://img.shields.io/badge/▶_VOIR_LA_DÉMO_%7C_WATCH_THE_DEMO-7b5cff?style=for-the-badge)](https://stkmultidynamics.github.io/STK-VISION-/site-github.html)
 
 <br>
 
