@@ -4,15 +4,8 @@
 
 <br><br>
 
-<a href="https://github.com/stkmultidynamics/STK-VISION-/blob/main/teasing.mp4"><img src="film-apercu.gif" alt="Film STK · Orchestrateur — cliquez pour voir le film complet" width="100%"></a>
-
-<sub>▶ Cliquez sur l'aperçu pour voir le film complet (1 min 30, avec le son) · Click the preview to watch the full film</sub>
-
-<br><br>
-
 [![Visiter le site](https://img.shields.io/badge/🌐_VISITER_LE_SITE_STK_VISION_%7C_VISIT_THE_SITE-29b6ff?style=for-the-badge)](https://stkmultidynamics.github.io/STK-VISION-/)
 
-[![Voir le film](https://img.shields.io/badge/▶_VOIR_LE_FILM_%7C_WATCH_THE_FILM-0a66ff?style=for-the-badge)](https://github.com/stkmultidynamics/STK-VISION-/blob/main/teasing.mp4)
 [![Voir le projet](https://img.shields.io/badge/📁_LE_PROJET_STK_VISION_%7C_THE_PROJECT-7b5cff?style=for-the-badge)](https://github.com/stkmultidynamics/STK-VISION-)
 
 <br>
